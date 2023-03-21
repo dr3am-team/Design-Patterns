@@ -1,3 +1,11 @@
+# Additional information and links
+
+* https://refactoring.guru/
+* https://www.oodesign.com/
+
+
+
+
 # Design-Patterns
 
 Creational Patterns:
